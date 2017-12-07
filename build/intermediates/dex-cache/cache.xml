@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sophanit/.android/build-cache/c4fabd2f97fc33d087811fded7e0b559adc9d7d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/sophanit/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/classes_9e30446774cdc61f1ee0e79fd0c43ef4343a8c41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sophanit/.android/build-cache/3558cf281439f9b3c726af0183bd068e60d0ff5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/sophanit/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/classes_cf9707b21385b267d43f2d1a0fdfb4c2e83d33fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sophanit/.android/build-cache/068b2ce1db14564bd7a16dd38e96f403d261c5c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/sophanit/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/classes_61a8976152ce4477380dc15704218ba425f5fce8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sophanit/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/sophanit/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/common-1.0.3_2d2344910aea08dd089e53b3ac4b44a8dbf49932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sophanit/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/sophanit/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_82234d7a3b0a06d3baebe6e3325f5e274a028a54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sophanit/.android/build-cache/cbe8820f09d251ce181cb890728c0d9650506b65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/sophanit/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/classes_c8d54455f3f60c95c3a7dbfa06b445e53b2d3d6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sophanit/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/sophanit/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_e894f79f9dfc49f7545cf2b30f0b5b9751b7af3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sophanit/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/sophanit/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/common-1.0.0_0b468b6d65ba1f2240e571a1eac38964c7519176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sophanit/.android/build-cache/3d2bde182798e718a5e4f139adf5629110d2d391/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/sophanit/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/classes_bc2c36258844611954c010b5f0052a80569adc3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sophanit/.android/build-cache/f1b0e3b55e1d37890f69edd981719c475a9369c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/sophanit/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/classes_4aab459fc24577a40b868c3b99971757bb03cd54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sophanit/.android/build-cache/6e50a07530dd75618c003ca5749bd2ebd494f58a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/sophanit/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/classes_3864595fa30bb5a93c24253ba9365abd66e9fb96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sophanit/.android/build-cache/4ebec2f203303796ec601708a570fa0a373da353/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/sophanit/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/classes_2becf9d15e8c749bf5df70d3ef9b41b774a80036.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sophanit/.android/build-cache/213709f8639eb53af415577be86ab1793aacb3f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/sophanit/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/classes_be2fdb0169a6448ce0555873ca7199e80ccabbbb.jar" />
+    </item>
+
+</items>
